@@ -83,7 +83,7 @@ PhoneBook/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/farabi-x09/Phone-Book-Management-System.git
 ```
 
 ### 2. Open the Project
